@@ -6,6 +6,10 @@ FORM FINDING AND OPTIMIZATION OF GRID SHELLS USING FORCE DENSITY METHOD AND DISC
 ## ABSTRACT 
 Force Density Method is widely used method for form finding of tensile cable nets and grid shells. In this thesis, a design tool that utilizes force density method along with Genetic Algorithm have been formulated in Rhino-Grasshopper, a parametric environment, for form finding and optimization of grid shells. Parametric study of a 12m *12m rectangular grid shell for variations in structural weight, height and deflection has been done for various topologies, subdivisions, and force density values. Genetic Algorithm has been used for optimization of grid-shell to get minimum weight for prescribed grid shell heights. Moreover, Force Density Method along with Airy stress functions in discrete form have been utilized for form finding of grid shells of various geometries. Using force density values and grid shell topology the projection of discrete airy stress function in form of plane faced polyhedron, form finding of grid shell self-supporting in lateral direction has been done. Variations in structural parameters between grid shell forms obtained using stress polyhedron and forms obtained using uniform force densities have been studied.
 
+## METHODOLOGY
+Environments : Rhino -Grasshopper , ETABS
+Programming Languages : Python, Grasshopper, C++
+
 ![image](https://user-images.githubusercontent.com/70009787/203467004-5833091b-5499-4826-92fe-1a45a7933b07.png)
 ![image](https://user-images.githubusercontent.com/70009787/203467040-757ca934-dab2-4b38-b2c4-6ee82d21e257.png)
 
