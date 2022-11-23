@@ -1,0 +1,40 @@
+
+
+ ETABS Ultimate 64-bit 18.1.1 Build 2148 (Analysis Build 9780/64)               
+ File: C:\Users\nisha\Desktop\...\FINAL REPORT\MODEL\Validate Model\etabs\m1.OUT
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+      83               A   A   A   A   A   A
+      84 TO      86    -   -   -   A   A   A
+      88               A   A   A   A   A   A
+      90               -   -   -   A   A   A
+      92               A   A   A   A   A   A
+      94               -   -   -   A   A   A
+      96               A   A   A   A   A   A
+      98 TO     100    -   -   -   A   A   A
+     102 TO     109    A   A   A   A   A   A
+     110               -   -   -   A   A   A
+     112 TO     116    A   A   A   A   A   A
+     118               -   -   -   A   A   A
+     120 TO     127    A   A   A   A   A   A
+     128               -   -   -   A   A   A
+     130 TO     134    A   A   A   A   A   A
+     136               -   -   -   A   A   A
+     138 TO     142    A   A   A   A   A   A
+     145 TO     146    -   -   -   A   A   A
+     148               A   A   A   A   A   A
+     150               -   -   -   A   A   A
+     152               A   A   A   A   A   A
+     154               -   -   -   A   A   A
+     156               A   A   A   A   A   A
+     158 TO     168    -   -   -   A   A   A
